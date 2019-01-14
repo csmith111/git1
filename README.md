@@ -1,2 +1,3 @@
-# git1
-This is a Git repository to practice learning git
+# Repository git1
+This is a Git repository to practice learning git. 
+
