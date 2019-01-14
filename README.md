@@ -1,2 +1,2 @@
 # git1
-This is a repo to practice learning git
+This is a Git repository to practice learning git
